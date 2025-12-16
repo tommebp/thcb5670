@@ -48,10 +48,10 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+
+#EXTINF:-1 group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/QztqOe0.png",An Ninh TV
+#EXTINF:-1 group-title="An Ninh & QP"tvg-logo="https://i.imgur.com/QztqOe0.png",An Ninh TV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="An Ninh & QP"tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng VN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
