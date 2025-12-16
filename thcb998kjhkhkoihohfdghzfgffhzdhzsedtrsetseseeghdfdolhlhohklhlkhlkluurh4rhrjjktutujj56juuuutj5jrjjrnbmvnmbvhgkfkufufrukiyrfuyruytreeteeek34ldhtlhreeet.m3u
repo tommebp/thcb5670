@@ -48,7 +48,7 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+
+
 #EXTINF:-1 group-title="An Ninh & QP"tvg-logo=="https://img.hplus.com.vn/460x260/poster/2018/06/05/524177-anninh.png",An Ninh TV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="An Ninh & QP"tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng VN
@@ -147,5 +147,23 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Ani" group-title="🎬| Anime" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png", HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.0.0 Mobile/15E148 Safari/604.1
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Thời Trang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Thời Trang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion Russian 
+https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Thời Trang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion English 
+https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Thời Trang" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 2
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+
 #EXTINF:-1 group-title="Phim TVB Đặc sắc" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+
